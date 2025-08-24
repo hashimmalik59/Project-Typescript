@@ -4,7 +4,7 @@
 
 // Note: Alias ko hamesha Capital letter se start karen like Name, Age, Obj etc or han type aik keyword jo alias k saath use karna zaroori hai
 
-// Object Aliases
+// Object Alias
 type SMITStudent = {
     name: string;
     age: number;
@@ -20,11 +20,11 @@ const student1: SMITStudent = {
 }
 // Note: Key values ka order upar neeche hosakta hai like name ki jagah age aur age ki jagah name aasakata hai lekin length same honi chahiye yani jitni keys: values aapke alias mein hain utni hi aap k object mein honi chahiye
 
-// Array Aliases
+// Array Alias
 type Names = string[];
 const Names = ["Ali", "Khan", "Hashim"];
 
-// Array in object Aliases
+// Array in object Alias
 type StudentInfo = {
     id: number,
     name: string,
