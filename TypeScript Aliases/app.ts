@@ -2,7 +2,7 @@
 
 // Alias => Yeh aik type ka nick name/short name hai jis ki help se hum code ko reuseable aur readable bana sakte hain
 
-// Note: Alias ko hamesha Capital letter se start karen like Name, Age, Obj etc or han type aik keyword jo alias k saath use karna zaroori hai
+// Note: Alias ko hamesha Capital letter se start karen like Name, Age, Obj etc or han type aik keyword ko alias k saath use karna zaroori hai
 
 // Object Alias
 type SMITStudent = {
