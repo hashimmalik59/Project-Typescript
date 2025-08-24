@@ -4,7 +4,7 @@
 
 // Note: Alias ko hamesha Capital letter se start karen like Name, Age, Obj etc or han type aik keyword jo alias k saath use karna zaroori hai
 
-// Array Object
+// Object Aliases
 type SMITStudent = {
     name: string;
     age: number;
